@@ -2,7 +2,7 @@ public class Demo {
 
     public static void main(String[] args) {
 
-        System.out.println("This will be printed");
+        System.out.println("My Git Demo");
 
     }
 
